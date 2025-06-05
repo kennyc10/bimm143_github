@@ -27,7 +27,7 @@ Class 14: [RNA-Seq analysis mini-project]()
 
 Class 15: [Hands-on with Git and GitHub]()
 
-Class 16:  Essential UNIX for bioinformatics
+Class 16:  [Essential UNIX for bioinformatics]()
 
 
 
