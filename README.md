@@ -5,9 +5,9 @@ My classwork from [Spring 25' BIMM 143](https://bioboot.github.io/bimm143_S25/sc
 
 Class 4 Bioinformatics data analysis with R 
 
-Class 5 [Data exploration and visualization in R](http://localhost:3374/BIMM%20class%2005_files/BIMM%20class%2005.md)
+Class 5: [Data exploration and visualization in R](http://localhost:3374/BIMM%20class%2005_files/BIMM%20class%2005.md)
 
-class 6 R functions and R packages from CRAN and BioConductor
+class 6: R functions and R packages from CRAN and BioConductor
 
 class 7: Introduction to machine learning for Bioinformatics
 
