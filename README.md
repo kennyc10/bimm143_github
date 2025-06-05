@@ -7,7 +7,7 @@ Class 4: [Bioinformatics data analysis with R]()
 
 Class 5: [Data exploration and visualization in R](https://github.com/kennyc10/bimm143_github/blob/main/BIMM%20class%2005.md)
 
-class 6: [R functions and R packages from CRAN and BioConductor]()
+class 6: [R functions and R packages from CRAN and BioConductor](https://github.com/kennyc10/bimm143_github/blob/main/BIMM%20143%20CLASS06.md)
 
 class 7: [Introduction to machine learning for Bioinformatics]()
 
